@@ -20,7 +20,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=my-portfolio&theme=radical)](https://github.com/omidsdgi/my-portfolio)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=fast-react-pizza&theme=radical)](https://github.com/omidsdgi/fast-react-pizza)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=react-quiz&theme=radical)](https://github.com/omidsdgi/react-quiz)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=world-wize&theme=radical)](https://github.com/omidsdgi/world-wize)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=world-wise&theme=radical)](https://github.com/omidsdgi/world-wise)
 
 ---
 
