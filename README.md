@@ -18,7 +18,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=fast-react-pizza&theme=radical)](https://github.com/omidsdgi/fast-react-pizza)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=my-portfolio&theme=radical)](https://github.com/omidsdgi/my-portfolio)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=react-render-props-final&theme=radical)](https://github.com/omidsdgi/react-render-props-final)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=react-render-props-final&theme=radical)](https://github.com/omidsdgi/main-project-shoping)
 
 ---
 
