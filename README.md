@@ -1,6 +1,6 @@
 # سلام 👋
-من **Omid** هستم، توسعه‌دهنده Front-End که عاشق React و TypeScript است.  
-همیشه در حال یادگیری و ساخت پروژه‌های کاربردی و جذاب.
+من **Omid** هستم، توسعه‌دهنده Front-End با علاقه به React و TypeScript.  
+عاشق ساخت پروژه‌های جذاب و یادگیری مهارت‌های جدید در فرانت‌اند هستم.
 
 ---
 
@@ -19,7 +19,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=fast-react-pizza&theme=radical)](https://github.com/omidsdgi/fast-react-pizza)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=my-portfolio&theme=radical)](https://github.com/omidsdgi/my-portfolio)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=react-render-props-final&theme=radical)](https://github.com/omidsdgi/react-render-props-final)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omidsdgi&repo=any-other-repo&theme=radical)](https://github.com/omidsdgi/any-other-repo)
 
 ---
 
@@ -33,8 +32,8 @@
 ## 💬 درباره من
 - علاقه‌مند به **React, Next.js, TypeScript**
 - ساخت پروژه‌های واقعی با رابط کاربری جذاب
-- همیشه دنبال یادگیری مهارت‌های جدید در فرانت‌اند
+- همیشه در حال یادگیری و بهبود مهارت‌های فرانت‌اند
 
 ---
 
-✨ پروفایل با ❤️ توسط **GitHub Stats**, **ReadMe Cards**, و **GitHub Streak** ساخته شده است
+✨ این پروفایل با ❤️ توسط **GitHub Stats**, **ReadMe Cards**, و **GitHub Streak** ساخته شده است
