@@ -1,10 +1,10 @@
-# HI 👋
+"Hi, I'm Omid 👋 | Frontend Developer building web apps with React, Next.js & TypeScript | Passionate about clean code & modern UI/UX."
 
 ## 💻 My Skills
 
 ### React Ecosystem
-![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-%23FF69B4?style=for-the-badge&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23FF4500?style=for-the-badge&logoColor=white)
