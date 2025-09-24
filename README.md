@@ -52,24 +52,11 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ---
-
+## 📊 GitHub Stats & Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omidsdgi&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical)
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical)  
-
-## 🎯 Top Languages  
-
-
-
-## 📊 GitHub Stats & Languages
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical) <br> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omidsdgi&theme=radical) | ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical) <br> ![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omidsdgi&theme=radical) |
+![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical) |
 
 
 
