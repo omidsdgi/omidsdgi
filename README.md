@@ -82,7 +82,14 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omidsdgi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 |---|---|
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omidsdgi&theme=radical&hide_border=true&background=0D1117) | ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical)
+
+</div>
+
+## 📈 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=omidsdgi&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
