@@ -58,7 +58,22 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical)
 ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical) |
 
+## 📊 GitHub Stats & Languages
 
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical" alt="Top Langs by Repo" />
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 
 ## 📈 Activities
