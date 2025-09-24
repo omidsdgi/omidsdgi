@@ -77,6 +77,14 @@
 |--------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical) <br> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omidsdgi&theme=radical) | ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical) <br> ![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omidsdgi&theme=radical) |
 
+
+## 📊 GitHub Stats & Languages
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical) <br> ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omidsdgi&theme=radical) | ![Top Langs by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical) <br> ![Top Langs by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omidsdgi&theme=radical) |
+
+
 ---
 
 ## 📈 Activities
