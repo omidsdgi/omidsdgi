@@ -162,12 +162,6 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 <div align="center">
 
-**"Building the web, one component at a time"** ✨
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
-
 ⭐️ **If you like my work, give some ⭐️ to my repositories!**
 
 *This profile was crafted with ❤️ using GitHub Stats, ReadMe Cards, and GitHub Streak*
