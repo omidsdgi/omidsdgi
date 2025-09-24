@@ -76,37 +76,13 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Most Used Languages
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=omidsdgi&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-### 🔥 Most Used Languages
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omidsdgi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical" alt="Languages by Repo" />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omidsdgi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+|---|---|
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omidsdgi&theme=radical&hide_border=true&background=0D1117) | ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omidsdgi&theme=radical)
 
 </div>
 
