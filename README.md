@@ -115,16 +115,6 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omidsdgi&theme=react-dark&hide_border=true&bg_color=0D1117&color=2F81F7&line=58a6ff&point=ffffff)
-
-</div>
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 🔨 Building a comprehensive React component library
