@@ -99,9 +99,9 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 <div align="center">
 
-### 🚀 [Project Name 1](https://github.com/omidsdgi/project-1)
-**Modern E-commerce Platform** - A full-featured online store built with Next.js  
-`Next.js` `TypeScript` `TailwindCSS` `Supabase` `Stripe`
+### 🚀 [Project Name 1](https://github.com/omidsdgi/The-Wild-Oasis-)
+**a modern, responsive dashboard for managing hotel bookings, guest activities, and daily sales with real-time data visualization and dark/light mode support.
+`React` `Vite` `Context API` `React Query` `TanStack Query` `Recharts` ` Styled Components` `supabase`  
 
 ### 🎨 [Project Name 2](https://github.com/omidsdgi/project-2)
 **Interactive Dashboard** - Real-time analytics dashboard with beautiful charts  
@@ -109,7 +109,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 ### 📱 [Project Name 3](https://github.com/omidsdgi/project-3)
 **Social Media App** - Responsive social platform with real-time features  
-`Next.js` `TypeScript` `TanStack Query` `Socket.io` `Prisma`
+`React` `Vite` `Context API` `React Query` `TanStack Query` `Recharts` ` Styled Components` `supabase`   
 
 </div>
 
