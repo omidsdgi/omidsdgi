@@ -99,7 +99,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 <div align="center">
 
-### 🚀 [Project Name 1](https://github.com/omidsdgi/The-Wild-Oasis-)
+### 🚀 [The-Wild-Oasis](https://github.com/omidsdgi/The-Wild-Oasis-)
 **a modern, responsive dashboard for managing hotel bookings, guest activities, and daily sales with real-time data visualization and dark/light mode support.
 `React` `Vite` `Context API` `React Query` `TanStack Query` `Recharts` ` Styled Components` `supabase`  
 
