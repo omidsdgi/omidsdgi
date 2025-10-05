@@ -101,11 +101,11 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 ### 🚀 [The-Wild-Oasis](https://github.com/omidsdgi/The-Wild-Oasis-)
 **a modern, responsive dashboard for managing hotel bookings, guest activities, and daily sales with real-time data visualization and dark/light mode support.
-`React` `Vite` `Context API` `React Query` `TanStack Query` `Recharts` ` Styled Components` `supabase`  
+`Vite` `React` `Context API` `React Query` `TanStack Query` `Recharts` ` Styled Components` `supabase`  
 
-### 🎨 [Project Name 2](https://github.com/omidsdgi/project-2)
-**Interactive Dashboard** - Real-time analytics dashboard with beautiful charts  
-`React` `TypeScript` `Redux Toolkit` `Chart.js` `Framer Motion`
+### 🎨 [Perfect Food ](https://github.com/omidsdgi/main-project-shopping)
+**Modern E-Commerce Store — a responsive and dynamic online store with product browsing and cart management. Designed for performance and clean UI/UX using modern. 
+`Next.js``SSR & CSR` `React` `TypeScript` `Context API` `TanStack Query` `Axios` `React hook form`
 
 ### 📱 [Project Name 3](https://github.com/omidsdgi/project-3)
 **Social Media App** - Responsive social platform with real-time features  
