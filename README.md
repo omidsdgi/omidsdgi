@@ -105,7 +105,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 ### 🎨 [Perfect Food ](https://github.com/omidsdgi/main-project-shopping)
 **Modern E-Commerce Store — a responsive and dynamic online store with product browsing and cart management. Designed for performance and clean UI/UX using modern. 
-`Next.js``SSR & CSR` `React` `TypeScript` `Context API` `TanStack Query` `Axios` `React hook form`
+`Next.js` `SSR & CSR` `React` `TypeScript` `Context API` `TanStack Query` `Axios` `React hook form` `Tailwind`
 
 ### 📱 [Project Name 3](https://github.com/omidsdgi/project-3)
 **Social Media App** - Responsive social platform with real-time features  
