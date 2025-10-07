@@ -107,9 +107,9 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 **Modern E-Commerce Store — a responsive and dynamic online store with product browsing and cart management. Designed for performance and clean UI/UX using modern. 
 `Next.js` `SSR & CSR` `React` `TypeScript` `Context API` `TanStack Query` `Axios` `React hook form` `Tailwind`
 
-### 📱 [Project Name 3](https://github.com/omidsdgi/project-3)
-**Social Media App** - Responsive social platform with real-time features  
-`React` `Vite` `Context API` `React Query` `TanStack Query` `Recharts` ` Styled Components` `supabase`   
+### 📱 [Fast React Pizza](https://github.com/omidsdgi/fast-react-pizza)
+**Fast React Pizza is a modern, responsive pizza ordering dashboard built with React and Vite. The application features a dynamic menu loaded from an API, allowing users to add multiple pizzas to their cart and place orders effortlessly. Users can input their name, phone number, and address to complete the order, with the option to mark it as a priority for an additional 20% of the cart price.
+`React` `Vite` `Redux Toolkit` `React Router` `TailwindCSS`
 
 </div>
 
