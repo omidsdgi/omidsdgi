@@ -100,15 +100,15 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 <div align="center">
 
 ### 🚀 [The-Wild-Oasis](https://github.com/omidsdgi/The-Wild-Oasis-)
-**a modern, responsive dashboard for managing hotel bookings, guest activities, and daily sales with real-time data visualization and dark/light mode support.
+**A modern, responsive dashboard for managing hotel bookings, guest activities, and daily sales with real-time data visualization and dark/light mode support.
 `Vite` `React` `Context API` `React Query` `TanStack Query` `Recharts` ` Styled Components` `supabase`  
 
 ### 🎨 [Perfect Food ](https://github.com/omidsdgi/main-project-shopping)
-**Modern E-Commerce Store — a responsive and dynamic online store with product browsing and cart management. Designed for performance and clean UI/UX using modern. 
+**A modern, scalable e-commerce front-end built with Next.js and React, utilizing hybrid rendering (SSR + CSR), Context API for global state management, and integrated API communication. The application features product browsing, cart functionality, and a seamless checkout process, providing a smooth and efficient shopping experience. 
 `Next.js` `SSR & CSR` `React` `TypeScript` `Context API` `TanStack Query` `Axios` `React hook form` `Tailwind`
 
 ### 📱 [Fast React Pizza](https://github.com/omidsdgi/fast-react-pizza)
-**Fast React Pizza is a modern, responsive pizza ordering dashboard built with React and Vite. The application features a dynamic menu loaded from an API, allowing users to add multiple pizzas to their cart and place orders effortlessly. Users can input their name, phone number, and address to complete the order, with the option to mark it as a priority for an additional 20% of the cart price.
+**Fast React Pizza is a responsive pizza ordering dashboard built with React and Vite. The application features a dynamic menu loaded from an API, allowing users to add multiple pizzas to their cart and place orders effortlessly. Users can input their name, phone number, and address to complete the order, with the option to mark it as a priority for an additional 20% of the cart price.
 `React` `Vite` `Redux Toolkit` `React Router` `TailwindCSS`
 
 </div>
