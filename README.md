@@ -81,11 +81,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidsdgi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omidsdgi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-|---|---|
 
-</div>
-
-## 📈 GitHub Streak
 
 <div align="center">
 
