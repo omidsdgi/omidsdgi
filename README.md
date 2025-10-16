@@ -89,7 +89,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=omidsdgi&theme=radical&hide_border=true&background=0D1117)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omid%20sadeghi&theme=merko)](https://git.io/streak-stats)
 
 </div>
 
