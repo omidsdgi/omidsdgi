@@ -30,7 +30,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 ### React Ecosystem
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-%23CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-0A0A0A?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-%23FF69B4?style=for-the-badge&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23FF4500?style=for-the-badge&logoColor=white)
 
