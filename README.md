@@ -57,7 +57,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 ### Styling & Design Systems
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-38BDF8?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS Modules](https://img.shields.io/badge/CSS_Modules-1572B6?style=for-the-badge)
