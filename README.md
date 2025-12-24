@@ -89,7 +89,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 ## 📈 GitHub Streak
 <div align="center">
 
-https://streak-stats.demolab.com/?user=omidsdgi&theme=merko&cache_seconds=0&timezone=Asia/Tehran
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=omidsdgi&theme=merko&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&fire=EB5454&ring=F5C518&currStreakNum=F5C518&sideNums=F5C518&sideLabels=F5C518&currStreakLabel=F5C518&dates=AAAAAA&stroke=222222&cache_seconds=0&timezone=Asia/Tehran)
 
 
 </div>
