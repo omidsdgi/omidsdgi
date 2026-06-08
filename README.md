@@ -64,7 +64,7 @@ Frontend Developer focused on building scalable React & Next.js applications wit
 ## 📈 GitHub Streak
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=omidsdgi&theme=merko&cache_seconds=0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=omidsdgi&theme=merko&cache&hide_border=true&count_private=true_seconds=0)](https://git.io/streak-stats)
 
 </div>
 
